@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dim_image_height_large">40dp</dimen>
+    <dimen name="dim_image_height_small">30dp</dimen>
+    <dimen name="dim_image_width_large">50dp</dimen>
+    <dimen name="dim_image_width_small">20dp</dimen>
+    <!-- From: file:/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Instagram OAuth</string>
+    <string name="description_zoom_touch_close">description zoom touch close</string>
+    <string name="no_network">Check Network Connection</string>
+    <!-- From: file:/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="style_base_image">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+    <style name="style_image_extra_small" parent="style_base_image">
+        <item name="android:layout_weight">15</item>
+    </style>
+    <style name="style_image_large" parent="style_base_image">
+
+        <item name="android:layout_weight">20</item>
+    </style>
+    <style name="style_image_small" parent="style_base_image">
+
+    <item name="android:layout_weight">15</item>
+</style>
+</resources>

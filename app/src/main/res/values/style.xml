@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="style_base_image">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+    <style name="style_image_large" parent="style_base_image">
+
+        <item name="android:layout_weight">20</item>
+    </style>
+
+<style name="style_image_small" parent="style_base_image">
+
+    <item name="android:layout_weight">15</item>
+</style>
+
+    <style name="style_image_extra_small" parent="style_base_image">
+        <item name="android:layout_weight">15</item>
+    </style>
+
+    </resources>

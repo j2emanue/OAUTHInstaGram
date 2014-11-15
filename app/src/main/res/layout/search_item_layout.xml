@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:weightSum="100">
+
+
+
+    <!--pattern should be big,small,small,big,small,small -->
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_large"
+        android:id="@+id/niv_image_a_big"
+
+        />
+
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_extra_small"
+        android:id="@+id/niv_image_b_small"
+        />
+
+
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_small"
+        android:id="@+id/niv_image_c_small"
+        />
+
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_large"
+        android:id="@+id/niv_image_d_large"
+        />
+
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_small"
+        android:id="@+id/niv_image_e_small"
+        />
+
+
+    <com.android.volley.toolbox.NetworkImageView
+        style="@style/style_image_extra_small"
+        android:id="@+id/niv_image_f_small"
+        />
+
+</LinearLayout>

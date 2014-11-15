@@ -1,0 +1,7 @@
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/classes-44575f6fcd7e0e182247b00c09a7b9ab93fd6e08.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/classes-99a9880d3c597d16a04e54f8b2471acfd5581dc6.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/gson-2.3-5067a43b3e6d3f51a84bc3533a417667f7ba2288.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-033c837373a87aef4170c250fc81a40cdfd9d6a8.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/volley-ccd4abc8d01304c49bece4898fc16787ea4e1627.jar
+/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/classes/debug

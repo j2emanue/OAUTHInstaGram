@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instagram OAuth</string>
+    <string name="no_network">Check Network Connection</string>
+    <string name="description_zoom_touch_close">description zoom touch close</string>
+</resources>

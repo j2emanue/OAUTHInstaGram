@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--define image widths here-->
+    <dimen name="dim_image_width_large">50dp</dimen>
+
+    <dimen name="dim_image_width_small">20dp</dimen>
+
+
+    <dimen name="dim_image_height_large">40dp</dimen>
+
+    <dimen name="dim_image_height_small">30dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+</resources>
