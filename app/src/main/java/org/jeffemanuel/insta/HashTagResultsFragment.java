@@ -159,7 +159,8 @@ public class HashTagResultsFragment extends BaseFragment implements View.OnClick
             mCurrentAnimator.cancel();
         }
 
-        // Load the high-resolution "zoomed-in" image.
+        // here we would load the high-resolution "zoomed-in" image but im just reusing
+        // the small one since its a demo.
         final ImageView expandedImageView = (ImageView) getView().findViewById(
                 R.id.expanded_image);
         expandedImageView.setImageDrawable(thumbView.getDrawable());
