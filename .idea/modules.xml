@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OAUTHInstaGram.iml" filepath="$PROJECT_DIR$/OAUTHInstaGram.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-instagram-oauth-example.iml" filepath="$PROJECT_DIR$/android-instagram-oauth-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

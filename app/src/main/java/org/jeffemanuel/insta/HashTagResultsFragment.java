@@ -131,6 +131,7 @@ public class HashTagResultsFragment extends BaseFragment implements View.OnClick
         GsonBuilder gson = new GsonBuilder();
         InstaGramResults pojo = gson.create().fromJson(response.toString(),InstaGramResults.class);
         //pass the data to our adapter.
+
         RecyclerListAdapter adapter = new RecyclerListAdapter(pojo.getData(),this);
 
         mRecyclerView.setAdapter(adapter);

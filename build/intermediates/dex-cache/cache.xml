@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/libs/volley.jar"
+        jar="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="6c1dd6b67ddc590875c36f17c9c71805f6608ec0">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/volley-ccd4abc8d01304c49bece4898fc16787ea4e1627.jar" />
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/classes-6481206c4d786e013ac67fc35d2dad02c17025d0.jar" />
     </item>
     <item
         jar="/Users/bl630326/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/gson-2.3-5067a43b3e6d3f51a84bc3533a417667f7ba2288.jar" />
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/gson-2.3-5067a43b3e6d3f51a84bc3533a417667f7ba2288.jar" />
     </item>
     <item
-        jar="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jar="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/classes-44575f6fcd7e0e182247b00c09a7b9ab93fd6e08.jar" />
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/classes-d530f540837c6088e6d0e4c249ad716dd5029b38.jar" />
+    </item>
+    <item
+        jar="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-3feee996aafb395e0b49583a10ab693cfea54366.jar" />
     </item>
     <item
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar" />
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar" />
     </item>
     <item
-        jar="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jar="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/libs/volley.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-033c837373a87aef4170c250fc81a40cdfd9d6a8.jar" />
-    </item>
-    <item
-        jar="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="/Users/bl630326/Documents/testjunk/android-instagram-oauth-example/app/build/intermediates/pre-dexed/debug/classes-99a9880d3c597d16a04e54f8b2471acfd5581dc6.jar" />
+        sha1="6c1dd6b67ddc590875c36f17c9c71805f6608ec0">
+        <dex dex="/Users/bl630326/Documents/InstaGram/OAUTHInstaGram/app/build/intermediates/pre-dexed/debug/volley-19be223b5900cf7fbac847981f6ab5b30606d273.jar" />
     </item>
 
 </items>
